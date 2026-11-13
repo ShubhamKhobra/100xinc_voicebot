@@ -1,0 +1,4 @@
+fastapi>=0.115
+openai==3.50.0
+httpx==0.28.1
+python-multipart>=0.0.9
